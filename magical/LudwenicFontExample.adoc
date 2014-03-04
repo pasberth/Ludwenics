@@ -1,0 +1,38 @@
+= LudwenicFont
+:docinfo:
+
+|===
+|A|B|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z
+
+|[ludwen]#A#|[ludwen]#B#|[ludwen]#C#|[ludwen]#D#|[ludwen]#E#|[ludwen]#F#|[ludwen]#G#|[ludwen]#H#|[ludwen]#I#|[ludwen]#J#|[ludwen]#K#|[ludwen]#L#|[ludwen]#M#|[ludwen]#N#|[ludwen]#O#|[ludwen]#P#|[ludwen]#Q#|[ludwen]#R#|[ludwen]#S#|[ludwen]#T#|[ludwen]#U#|[ludwen]#V#|[ludwen]#W#|[ludwen]#X#|[ludwen]#Y#|[ludwen]#Z#
+|===
+
+|===
+|a|b|c|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z
+
+|[ludwen]#a#|[ludwen]#b#|[ludwen]#c#|[ludwen]#d#|[ludwen]#e#|[ludwen]#f#|[ludwen]#g#|[ludwen]#h#|[ludwen]#i#|[ludwen]#j#|[ludwen]#k#|[ludwen]#l#|[ludwen]#m#|[ludwen]#n#|[ludwen]#o#|[ludwen]#p#|[ludwen]#q#|[ludwen]#r#|[ludwen]#s#|[ludwen]#t#|[ludwen]#u#|[ludwen]#v#|[ludwen]#w#|[ludwen]#x#|[ludwen]#y#|[ludwen]#z#
+|===
+
+|===
+|0|1|2|3|4|5|6|7|8|9
+
+|[ludwen]#0#|[ludwen]#1#|[ludwen]#2#|[ludwen]#3#|[ludwen]#4#|[ludwen]#5#|[ludwen]#6#|[ludwen]#7#|[ludwen]#8#|[ludwen]#9#
+|===
+
+|===
+|English|Ludwen
+
+|Sarriel|[ludwen]#Sarriel#
+|Leaf   |[ludwen]#Leaf#
+|Lufe   |[ludwen]#Lufe#
+|Mallemie|[ludwen]#Mallemie#
+|Elumie |[ludwen]#Elumie#
+|Reica  |[ludwen]#Reica#
+|Swen   |[ludwen]#Swen#
+|Naira  |[ludwen]#Naira#
+|Shigule|[ludwen]#Shigule#
+|Deel   |[ludwen]#Deel#
+|Reimirr|[ludwen]#Reimirr#
+|Marf   |[ludwen]#Marf#
+|Lina   |[ludwen]#Lina#
+|===
